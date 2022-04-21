@@ -12,9 +12,9 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey("space"))
+        if (Input.GetKeyDown("space"))
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector3(0, 7, 0);
+            GetComponent<Rigidbody2D>().velocity = new Vector3(0, 14, 0);
         }
 
     }
