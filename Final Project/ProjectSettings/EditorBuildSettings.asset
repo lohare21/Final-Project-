@@ -6,10 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SimplePixelUI/ExamleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scene/Start.unity
+    guid: e99eec56188cf46429f19660ad0b0456
   - enabled: 1
-    path: Assets/Scene/FirstLevel.unity
+    path: Assets/Scene/Level 1.unity
     guid: 392f6a6564d35a84d8106c447c85033c
+  - enabled: 1
+    path: Assets/Scene/Level 1.2.unity
+    guid: 94f02adc9def02242aca9243facaf2ac
+  - enabled: 1
+    path: Assets/Scene/Level 1.3.unity
+    guid: 03063845b67a26c41878db88d76167fa
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: c8ba31d21938c4149b42ee386174e2b2, type: 2}

@@ -15,7 +15,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - background
   - 
   - 
   - 
@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 1312460155
     locked: 0
+  - name: between
+    uniqueID: 1056666935
+    locked: 0
   - name: Terrain
     uniqueID: 1141634551
     locked: 0
@@ -52,7 +55,4 @@ TagManager:
     locked: 0
   - name: Character
     uniqueID: 4019413475
-    locked: 0
-  - name: New Layer
-    uniqueID: 1056666935
     locked: 0
